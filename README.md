@@ -1,2 +1,5 @@
-Practice undoing examples
+# Undo walkthrough
+
+## Objectives
+Learn about reset
 ================
